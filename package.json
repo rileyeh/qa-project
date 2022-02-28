@@ -1,0 +1,23 @@
+{
+  "name": "qa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basePage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileyeh/qa-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rileyeh/qa-project/issues"
+  },
+  "homepage": "https://github.com/rileyeh/qa-project#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
